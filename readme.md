@@ -1,5 +1,4 @@
 # Dionesio Barbosa Silveira Neto
-
 ---
 
 🎯 **Líder em Finanças & IA | Data Analytics | Transformação Digital**
@@ -46,9 +45,9 @@ Especialista em transformar dados complexos em insights acionáveis, com domíni
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/dionesio-barbosa-silveira-neto-14879636b)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dionesio%20Neto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dionesio-barbosa-neto)
 - Email: [dionesiobsneto@gmail.com](mailto:dionesiobsneto@gmail.com)
 
 ---
 
-> “Organização é liberdade disfarçada de método.” — Dionesio Neto
+> “Organização é liberdade disfarçada de método.” — Dionesio Neto | Julho 2025
