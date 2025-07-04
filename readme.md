@@ -1,6 +1,11 @@
 # Dionesio Barbosa Silveira Neto
 
+---
+
 🎯 **Líder em Finanças & IA | Data Analytics | Transformação Digital**
+
+> ✨ _O futuro não se copia. Se (re)escreve com propósito._  
+> — Dionesio (2025)
 
 ---
 
